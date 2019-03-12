@@ -1,2 +1,2 @@
 # Fintex
-Banking Web Service
+Banking Web/Desktop Service
